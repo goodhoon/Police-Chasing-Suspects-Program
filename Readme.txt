@@ -1,6 +1,4 @@
-
-
-*** Run MainB in TaskB to show th GUI panel***
+***** RUN MainB TO SEE THE GUI PANEL*****
 
 
 <Introduction Police Chasing Suspects Program>
