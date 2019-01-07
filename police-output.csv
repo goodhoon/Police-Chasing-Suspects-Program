@@ -1,0 +1,11 @@
+id,x.location,y.location,status,dog,suspect
+P7,56,50,Returning,No,1
+P42,71,50,Returning,No,10
+P117,46,34,Approaching Suspect,Yes,8
+P9,80,30,Standby,No,9
+P8,53,48,Approaching Kennel,Yes,5
+P72,50,50,At Kennel,No,4
+P16,51,52,Approaching Kennel,No,6
+P23,54,42,Approaching Suspect,Yes,2
+P90,45,75,Approaching Kennel,No,3
+P92,50,53,Approaching Kennel,Yes,7
