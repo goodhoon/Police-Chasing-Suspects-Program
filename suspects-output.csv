@@ -1,11 +1,11 @@
 id,x.location,y.location,status,police unit
-1,24,24,Caught,P7
-2,46,47,Assigned,P23
-3,15,75,Caught,P90
-4,76,43,Caught,P72
-5,68,78,Caught,P8
+1,24,24,Caught,P117
+2,46,47,Assigned,P72
+3,15,75,Jailed,P9
+4,76,43,Jailed,P8
+5,68,78,Caught,P92
 6,85,65,Caught,P16
-7,33,56,Caught,P92
-8,45,25,Caught,P117
-9,51,71,Jailed,P9
-10,50,94,Caught,P42
+7,33,56,Jailed,P42
+8,45,25,Jailed,P7
+9,51,71,Jailed,P90
+10,50,94,Jailed,P23

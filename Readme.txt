@@ -3,7 +3,7 @@
 
 <Introduction Police Chasing Suspects Program>
 
-An application that simulates police units picking up a police dog, attending crime scenes, picking up suspects, and dropping them off at a police station within the city of Parallelopolis.
+An application that simulates police units picking up a police dog, attending crime scenes, picking up suspects, and dropping them off at a police station within the city of Parallelopolis for 100 seconds.
 
 It reads the “police.csv” and “suspects.csv”, runs for a set period of time, then outputs the updated information to “police-output.csv” and “suspects-output.csv”.
 

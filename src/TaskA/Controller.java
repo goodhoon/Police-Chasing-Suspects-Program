@@ -51,7 +51,7 @@ public class Controller {
 		
 		try {	
 			int count = 0;
-			int maxCycles = 60;
+			int maxCycles = 100;
 			long lastCycle = 0;
 			
 			while (count<maxCycles) {

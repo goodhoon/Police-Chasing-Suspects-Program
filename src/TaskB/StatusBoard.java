@@ -42,11 +42,11 @@ public class StatusBoard extends JFrame {
 		hashMap = new HashMap<String, Vector<String>>();
 		
 		vectors = new Vector<String>();
-		vectors.add("ID");
+		vectors.add("Police ID");
 		vectors.add("Location");
 		vectors.add("Status");
-		vectors.add("Police Dog");
-		vectors.add("Suspect");
+		vectors.add("Getting Police Dog");
+		vectors.add("Suspect Number");
 		
 		dtm = new DefaultTableModel(vectors, 0);
 		poliTable = new JTable(dtm);
