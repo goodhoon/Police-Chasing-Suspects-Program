@@ -1,6 +1,12 @@
-***** RUN MainB TO SEE THE GUI PANEL*****
+// Implementing a program simulating police chasing suspects by controlling multi-threads of Java
 
+1.
+Source files are available on request.
 
+2.
+In order to run the program, on the Windows Command Prompt, type 'java -jar chasing.jar'
+
+3.
 <Introduction Police Chasing Suspects Program>
 
 An application that simulates police units picking up a police dog, attending crime scenes, picking up suspects, and dropping them off at a police station within the city of Parallelopolis for 100 seconds.
