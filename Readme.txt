@@ -4,7 +4,7 @@
 Source files are available on request.
 
 2.
-In order to run the program, on the Windows Command Prompt, type 'java -jar chasing.jar'
+In order to run the program, on the Windows Command Prompt, type 'java -jar chasing.jar' ('police.csv' and 'suspects.csv', should be in the same folder with 'chasing.jar'.
 
 3.
 <Introduction Police Chasing Suspects Program>
